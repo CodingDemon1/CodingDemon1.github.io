@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning Full Stack Web Development **Node.js, Express.js, MongoDB**
 
-- 👨‍💻 All of my projects are available at [codingDemon1.github.io](codingDemon1.github.io)
+- 👨‍💻 All of my projects are available at [codingDemon1](https://github.com/CodingDemon1)
 
 - 📫 How to reach me **kumar.nit1021@gmail.com**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingdemon1" alt="codingdemon1" /></a> </p>
