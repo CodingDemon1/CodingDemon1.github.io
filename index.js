@@ -20,5 +20,5 @@ menu.addEventListener("click", () => {
 });
 
 function resume() {
-	window.open("./doc/Nitish_Kumar_Resume.pdf");
+	window.open("./doc/Nitish-Kumar-Resume.pdf");
 }
