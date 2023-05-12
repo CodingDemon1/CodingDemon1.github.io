@@ -20,7 +20,5 @@ menu.addEventListener("click", () => {
 });
 
 function resume() {
-	window.open(
-		"https://drive.google.com/file/d/1-jsug8lcVHdsVM4wRvYzYFf0mvAviXZl/view?usp=share_link"
-	);
+	window.open("./doc/Nitish_Kumar_Resume.pdf");
 }
