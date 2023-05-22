@@ -18,7 +18,3 @@ menu.addEventListener("click", () => {
 		m.classList.add("m-t");
 	}
 });
-
-function resume() {
-	window.open("./doc/Nitish-Kumar-Resume.pdf");
-}
