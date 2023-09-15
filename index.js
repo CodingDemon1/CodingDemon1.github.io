@@ -6,11 +6,11 @@ let btn1 = document.getElementById("resume-button-1")
 let btn2 = document.getElementById("resume-button-2")
 
 btn1.addEventListener("click", ()=>{
-	window.open("https://drive.google.com/file/d/1-jsug8lcVHdsVM4wRvYzYFf0mvAviXZl/view?usp=sharing")
+	window.open((href="https://drive.google.com/file/d/1-jsug8lcVHdsVM4wRvYzYFf0mvAviXZl/view?usp=sharing"))
 })
 
 btn2.addEventListener("click", ()=>{
-	window.open("https://drive.google.com/file/d/1-jsug8lcVHdsVM4wRvYzYFf0mvAviXZl/view?usp=sharing")
+	window.open((href="https://drive.google.com/file/d/1-jsug8lcVHdsVM4wRvYzYFf0mvAviXZl/view?usp=sharing"))
 })
 
 
