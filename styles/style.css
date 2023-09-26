@@ -566,7 +566,9 @@ header img{
     #contact > h1 , #contact>p{
         text-align: center;
     }
-    
+    #verticalLine {
+        display: none;
+    }
     #contact>div{
     
         /* border:1px solid black; */
@@ -703,6 +705,10 @@ header img{
         display: flex;
         justify-content:left;
         
+    }
+
+    #verticalLine{
+        display: none;
     }
 
     #home>img{
